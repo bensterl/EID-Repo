@@ -26,7 +26,3 @@ Hi! We are Foo-Scan and no longer will food be gone to waste with our product!
   
 ![Image](https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/1610977_1000599859972677_7089477996923077826_n.jpg?oh=b24c120fcc1f3d95376c683aaaf721d1&oe=56CA8780)
 
-
-## Test
-
-![Image](https://gyazo.com/673f26e52d67a6741062b9289de2d089)
