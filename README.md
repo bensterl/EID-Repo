@@ -1,5 +1,4 @@
 # FOO-SCAN 
-![Image](logomakr.com/1ZnvIE)
 
 Introducing a new way to monitor your food supply.
 
