@@ -8,7 +8,7 @@ Introducing a new way to monitor your food supply.
 
 
 
-  Members of Team Foo-Scan:
+ ### Members of Team Foo-Scan:
 
 
 
