@@ -1,7 +1,7 @@
-# EID-Repo
+# EID-101D
 Repository for Engineering and Design
 
-FOO-SCAN
+FOO-SCAN:
 
 Introducing a new way to monitor your food supply.
 
