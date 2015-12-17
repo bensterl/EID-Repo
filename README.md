@@ -1,8 +1,8 @@
 # FOO-SCAN 
 
-Introducing a new way to monitor your food supply.
+## Introducing a new way to monitor your food supply.
 
-Hi! We are Foo-Scan and no longer will food be gone to waste with our product! 
+### Hi! We are Foo-Scan and no longer will food be gone to waste with our product! 
 
 
 
