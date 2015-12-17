@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FooScan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inventory">Inventory</string>
+    <string name="title_activity_recipe__generator">Recipe_Generator</string>
+    <string name="FooScan" />
+    <string name="title_activity_foo">FooActivity</string>
+</resources>
