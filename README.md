@@ -26,7 +26,7 @@ Hi! We are Foo-Scan and no longer will food be gone to waste with our product!
   
 ![Image](https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/1610977_1000599859972677_7089477996923077826_n.jpg?oh=b24c120fcc1f3d95376c683aaaf721d1&oe=56CA8780)
 
-# Interviews
+## Interviews
 
   We as a group went out and interviewed our customers about our product the Foo-Scanner and asked questions about the general problem of organizing inventory and cooking meals. After conducting a total of 48 interviews to date, the results were leaning toward the side of the solution being a "great idea". The main points addressed in the interviews were as follows:
   
