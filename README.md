@@ -29,9 +29,13 @@ Hi! We are Foo-Scan and no longer will food be gone to waste with our product!
 # Interviews
 
   We as a group went out and interviewed our customers about our product the Foo-Scanner and asked questions about the general problem of organizing inventory and cooking meals. After conducting a total of 48 interviews to date, the results were leaning toward the side of the solution being a "great idea". The main points addressed in the interviews were as follows:
+  
   -Organizing food and keeping track of what food is in the house as time goes on is seen as a "slight" hassel
+  
   -Recipies for meals such as dinner would "improve deciding what to eat better" and "make good use of what is being bought when it is fresh"
+  
   -The scanning idea is "not tedious" and "very simple"
+  
   -A handheld object is "just like a phone with an app"
   
   However, these points were addressed later in the term. At the beggining, we addressed the general concern of food waste. The people we initially interviewed (around 15-18 people) stated that food waste "is a common domestic problem" and would allow people to "save money" if there was a cheap solution. Also, organization is considered to be an issue when the individual gets caught up in "too many things". However, deciding what to eat for a meal was either easy or hard depending on the person, there was no strict answer. We believe from all the interviews, our solution is a great idea for the issue of domestic food waste. Also, our product is seen as a great way to organize inventory of food and see recipies for good home cooked meals.  
